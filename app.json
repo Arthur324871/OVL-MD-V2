@@ -7,27 +7,27 @@
   "success_url": "/",
   "stack": "container",
   "env": {
-    "PREFIXE": {
+    "PREFIXE": {.
       "description": "Préfixe utilisé pour les commandes du bot",
       "value": ".",
       "required": false
     },
-    "NOM_OWNER": {
+    "NOM_OWNER": {ꪖꪹᡶꫝꪊꪹ ᡶꫀᨶꫝ᭢ꪮ
       "description": "Nom de l'Owner du bot",
       "value": "Ainz",
       "required": false
     },
-    "NUMERO_OWNER": {
+    "NUMERO_OWNER": {50941995106
       "description": "Numéro WhatsApp de l'Owner (au format international)",
-      "value": "226xxxxxxxx",
+      "value": "50941995106",
       "required": true
     },
-    "MODE": {
+    "MODE": {private 
       "description": "Mode de fonctionnement du bot (public ou private)",
       "value": "public",
       "required": false
     },
-    "SESSION_ID": {
+    "SESSION_ID": {Ovl-MD_HXzErKCy_SESSION-ID
       "description": "Identifiant de session",
       "value": "ovl",
       "required": true
